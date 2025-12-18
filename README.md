@@ -2,8 +2,6 @@
 
 A professional, AI-powered real estate dashboard built on Google Sheets. This tool automates the process of scraping, translating, scoring, and organizing property listings from any website globally.
 
-[![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)](https://developers.google.com/apps-script)
-
 ---
 
 ## 🌟 Key Features
